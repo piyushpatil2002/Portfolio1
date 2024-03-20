@@ -27,7 +27,7 @@ function Projects() {
               imgPath={ai}
               isBlog={false}
               title="AI-Powered 3D Immersion"
-              description="Developed a feature-rich 3d model customizer using AI."
+              description="Developed an AI-driven 3D customizer, featuring intuitive personalization and real-time analysis for an enhanced interactive experience."
               ghLink="https://github.com/piyushpatil2002/AI_3D_Project"
               demoLink="https://ai-powered-3d-immersion.netlify.app/"
             />
