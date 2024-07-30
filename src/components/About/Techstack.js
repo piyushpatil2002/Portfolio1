@@ -10,6 +10,8 @@ import {
   DiGit,
   DiJava,
   DiPhp,
+  DiIonic,
+  DiAngularSimple
 } from "react-icons/di";
 import {
   SiRedis,
@@ -30,6 +32,12 @@ function Techstack() {
         <DiJavascript1 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <DiAngularSimple />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiIonic />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
@@ -46,9 +54,6 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJava />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiPhp />
       </Col>
     </Row>
   );

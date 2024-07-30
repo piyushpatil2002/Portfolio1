@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Data Structures & Algorithms, OOP, DBMS. </b>
+                <b className="purple"> C++, Data Structures & Algorithms, Javascript, Angular,Ionic, React, . </b>
               </i>
               <br />
               <br />
