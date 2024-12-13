@@ -10,8 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Piyush Patil </span>
             from <span className="purple"> Nashik, India.</span>
-            <br /> I am a final year student pursuing BTech from Vishwakarma Institute Of Information Technology
-                    in Artificial Intelligence & Data Science.
+            <br /> I am a Software Developer at Vanderlande.
             <br />
             <br />
             <br />
